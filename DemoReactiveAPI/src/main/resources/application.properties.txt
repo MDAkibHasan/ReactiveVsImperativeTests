@@ -1,0 +1,9 @@
+spring.application.name=DemoReactiveAPI
+management.endpoints.web.exposure.include=*
+management.endpoint.health.show-details=always
+
+
+# ---------- Reactive (R2DBC) ----------
+spring.r2dbc.url=r2dbc:postgresql://localhost:5432/reactive_benchmark
+spring.r2dbc.username=postgres
+spring.r2dbc.password=postgres
