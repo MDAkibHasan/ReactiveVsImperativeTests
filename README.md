@@ -56,7 +56,8 @@ Imperative
 
 #### Reactive
 
-<img width="1080" height="377" alt="reactive_jvm_gc" src="https://github.com/user-attachments/assets/c6985ab5-9e5d-4542-90f9-9f87a6d54d12" />
+<img width="1083" height="272" alt="reactive_jvm_misc" src="https://github.com/user-attachments/assets/00751465-703a-4cc3-9af5-5b466ed273a4" />
+
 
 #### Imperative
 
