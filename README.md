@@ -45,11 +45,11 @@ Imperative
 
 #### Reactive
 
-<img width="1095" height="236" alt="imperative_cpu_usage" src="https://github.com/user-attachments/assets/8278ede2-4133-40f0-aec3-4e8340aab8f4" />
+<img width="1104" height="236" alt="reactive_cpu_usage" src="https://github.com/user-attachments/assets/b3715f66-097d-490d-9acc-ca9df92bbd6b" />
 
 #### Imperative
 
-<img width="1104" height="236" alt="reactive_cpu_usage" src="https://github.com/user-attachments/assets/b3715f66-097d-490d-9acc-ca9df92bbd6b" />
+<img width="1091" height="235" alt="imaperative_cpu_usage" src="https://github.com/user-attachments/assets/21bf6ccb-63f5-4452-bcdd-111587ceca04" />
 
 
 ### JVM Misc.
